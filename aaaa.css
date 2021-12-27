@@ -24,7 +24,7 @@ a {color: #ccc; text-decoration: none;}
 a:hover, a:focus {color: #ff9900; text-decoration: none;}
 h1, h2, h3, h4, h5 {font-weight: 600; font-size: 18px;}
 
-button, textarea, input[type="text"], input[type="password"] {appearance: none; -webkit-appearance: none; 
+textarea, input[type="text"], input[type="password"] {appearance: none; -webkit-appearance: none; 
 	font-size: 16px; font-family: 'Open Sans' !important;}
 
 .button, .btn, .pagi-load a, .up-second li a, .usp-edit a, .qq-upload-button, button:not(.color-btn):not([class*=fr]), 
